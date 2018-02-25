@@ -27,17 +27,17 @@ public class bar {
 					
 					cervejas = quantidade;
 					System.out.println("você comprou "+ cervejas + " cervejas!");
-				}//fim if
+				}
 				
 				else if( opcao == 2){
 					System.exit(0);
 					compra.close();
-				}//fim else if
+				}
 				
 				else{ System.out.println("opcao invaida");
-				}//fim else	
-			}//fim if		
-		}//fim while	
-	}//fim main	
-	}//fim class
+				}	
+			}		
+		}	
+	}	
+}
 
