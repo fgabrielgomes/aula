@@ -1,7 +1,7 @@
 package aula;
 import java.util.Scanner;
 
-public class bar {
+public class Bar {
 
 	public static void main(String[] args){
 		
